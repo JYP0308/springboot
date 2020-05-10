@@ -1,0 +1,5 @@
+jyp:
+  learn:
+    name: jyp0308
+    title: springboot
+    wholeTitle: ${jyp.learn.name}--${jyp.learn.title}
